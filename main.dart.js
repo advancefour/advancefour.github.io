@@ -72280,8 +72280,8 @@ b9(){this.bZ()
 this.bH()
 this.dF()}}
 A.F7.prototype={
-J(a){var s="labs/slideBanner",r=A.af0(null,B.W,null)
-return A.aiW(B.ES,A.aY(["labs",new A.Zt(),s,new A.Zu(),"labs",new A.Zv(),s,new A.Zw()],t.N,t.Ab),r,"\u7b14\u8bb0")}}
+J(a){var s="/labs/slideBanner",r=A.af0(null,B.W,null)
+return A.aiW(B.ES,A.aY(["/labs",new A.Zt(),s,new A.Zu(),"/labs",new A.Zv(),s,new A.Zw()],t.N,t.Ab),r,"\u7b14\u8bb0")}}
 A.Zt.prototype={
 $1(a){return B.AX},
 $S:411}
@@ -72313,7 +72313,7 @@ s=t.F
 return A.He(r,r,A.h4(r,A.Cg(A.a([A.iu(A.a([B.Mc,B.HS,A.a3x(B.M9,this.gZ9())],s),B.ae,B.b4,B.a6)],s),B.h_,B.b4,B.a6),r,B.wR,q.a.b,r,r,p.a.a))},
 Za(){var s=this.c
 s.toString
-A.pb(s).Na("labs",null,t.X)}}
+A.pb(s).Na("/labs",null,t.X)}}
 A.a8W.prototype={
 $0(){this.a.am(new A.a8V())},
 $S:0}
